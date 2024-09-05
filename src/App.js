@@ -32,7 +32,7 @@ function App() {
   const updatePrices = () => {
     handleNetPriceChange(netPrice);
   };
-
+  //comment telling me what this does
   return (
     <div className='header field'>
       VAT CALCULATOR
